@@ -1,6 +1,6 @@
 # Generic-Demonstration
 
-Create a class that can be used to simulate a raffle-like drawing of objects of any type
+Create a class that can be used to simulate a raffle-like drawing of objects, regardless of their type
 
 <img src="" width="300">
 
