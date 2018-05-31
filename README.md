@@ -1,6 +1,6 @@
 # Generic-Demonstration
 
-Create a class that can be used to simulate a raffle-like drawing of objects, regardless of their type
+Write a generic class to represent a random drawing of an item out of a box that holds a group of any type 
 
 <img src="Output.png" width="500">
 
